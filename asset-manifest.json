@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GoDie4/todo/static/css/main.b1550720.css",
+    "main.js": "/GoDie4/todo/static/js/main.b3b3e22f.js",
+    "index.html": "/GoDie4/todo/index.html",
+    "main.b1550720.css.map": "/GoDie4/todo/static/css/main.b1550720.css.map",
+    "main.b3b3e22f.js.map": "/GoDie4/todo/static/js/main.b3b3e22f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1550720.css",
+    "static/js/main.b3b3e22f.js"
+  ]
+}
